@@ -60,7 +60,7 @@ while 1:
     # N이 K보다 작을 때 반복문 탈출
     if n < k:
         break
-        
+
     # K로 나누기
     res += 1
     n //= k
